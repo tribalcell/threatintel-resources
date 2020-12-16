@@ -7,6 +7,7 @@
 3. OPSAT Metadefender https://metadefender.opswat.com/?lang=en
 4. ThreatCrows https://www.threatcrowd.org/
 5. RiskIQ (PassiveTotal) https://community.riskiq.com/search
+6. URL Query http://urlquery.net/index.php 
 
 ## File/sample check
 1. MalwareBazaar Database https://bazaar.abuse.ch/browse/ 
