@@ -19,6 +19,7 @@
 3. Joe Sanbox https://www.joesandbox.com/#advanced
 4. Intezer Analyze https://analyze.intezer.com/
 5. Anlyz Sandbox https://sandbox.anlyz.io/dashboard
+6. Tria.ge https://tria.ge/login 
 
 ## Mail Check
 1. MX Toolbox http://mxtoolbox.com/EmailHeaders.aspx 
