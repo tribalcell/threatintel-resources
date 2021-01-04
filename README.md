@@ -12,6 +12,7 @@
 5. RiskIQ (PassiveTotal) https://community.riskiq.com/search
 6. URL Query http://urlquery.net/index.php 
 7. Maltiverse https://maltiverse.com/
+8. RobTex https://www.robtex.com/
 
 ## File/sample check
 1. MalwareBazaar Database https://bazaar.abuse.ch/browse/ 
