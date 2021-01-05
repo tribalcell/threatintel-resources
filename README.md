@@ -13,11 +13,15 @@
 6. URL Query http://urlquery.net/index.php 
 7. Maltiverse https://maltiverse.com/
 8. RobTex https://www.robtex.com/
+9. CenSys https://censys.io/
+10. Shodan https://www.shodan.io/
+11. ZoomEye https://www.zoomeye.org/
 
 ## File/sample check
 1. MalwareBazaar Database https://bazaar.abuse.ch/browse/ 
 2. Virus Total https://www.virustotal.com/gui/
 3. Maltiverse https://maltiverse.com/
+4. PulseDive https://pulsedive.com/
 
 ## Online Sandboxing
 1. AnyRun https://app.any.run/
