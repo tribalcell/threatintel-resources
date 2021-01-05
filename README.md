@@ -34,6 +34,7 @@
 
 ## YARA & SIGMA Rules
 1. Valhalla YARA Rules https://valhalla.nextron-systems.com/
+2. SOC Prime TDM https://tdm.socprime.com/login/
 
 ## Mail Check
 1. MX Toolbox http://mxtoolbox.com/EmailHeaders.aspx 
