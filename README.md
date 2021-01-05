@@ -32,8 +32,12 @@
 6. Tria.ge https://tria.ge/login 
 7. Maltiverse https://maltiverse.com/
 
+## YARA & SIGMA Rules
+1. Valhalla YARA Rules https://valhalla.nextron-systems.com/
+
 ## Mail Check
 1. MX Toolbox http://mxtoolbox.com/EmailHeaders.aspx 
 
 ## Vulnerability & CVE
 1. OpenCVE https://www.opencve.io/
+
