@@ -5,6 +5,7 @@
 1. TribalSec Twitter https://twitter.com/tribal_sec
 2. TruKno https://www.trukno.com/
 3. Malpedia https://malpedia.caad.fkie.fraunhofer.de/ 
+4. Malware Tips https://malwaretips.com/forums/security-news.71/
 
 ## IP/Domain/URL Scan-Check
 1. URLhaus Database https://urlhaus.abuse.ch/
