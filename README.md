@@ -41,6 +41,9 @@
 ## Vulnerability & CVE
 1. OpenCVE https://www.opencve.io/
 
+## TTP / IoA - IoC 
+1. 
+
 ## DETECTION - YARA & SIGMA Rules
 1. Valhalla YARA Rules https://valhalla.nextron-systems.com/
 2. SOC Prime TDM https://tdm.socprime.com/login/
@@ -48,3 +51,4 @@
 4. Awesome YARA https://github.com/InQuest/awesome-yara 
 5. Yara Rules Repository https://github.com/Yara-Rules
 6. SIGMA Project (by Neo23x0) https://github.com/Neo23x0/sigma
+7. Online SIEM rules translator https://uncoder.io/ 
