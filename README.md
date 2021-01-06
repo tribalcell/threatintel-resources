@@ -2,8 +2,9 @@
 ## ThreatIntel / Threat Analysis Online resource
 
 ## Feeds & News
-1. TruKno https://www.trukno.com/
-2. Malpedia https://malpedia.caad.fkie.fraunhofer.de/ 
+1. TribalSec Twitter https://twitter.com/tribal_sec
+2. TruKno https://www.trukno.com/
+3. Malpedia https://malpedia.caad.fkie.fraunhofer.de/ 
 
 ## IP/Domain/URL Scan-Check
 1. URLhaus Database https://urlhaus.abuse.ch/
