@@ -32,9 +32,10 @@
 6. Tria.ge https://tria.ge/login 
 7. Maltiverse https://maltiverse.com/
 
-## YARA & SIGMA Rules
+## DETECTION - YARA & SIGMA Rules
 1. Valhalla YARA Rules https://valhalla.nextron-systems.com/
 2. SOC Prime TDM https://tdm.socprime.com/login/
+3. Elastic Detection rule https://github.com/elastic/detection-rules
 
 ## Mail Check
 1. MX Toolbox http://mxtoolbox.com/EmailHeaders.aspx 
