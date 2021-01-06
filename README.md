@@ -17,6 +17,9 @@
 10. Shodan https://www.shodan.io/
 11. ZoomEye https://www.zoomeye.org/
 
+## Mail Check
+1. MX Toolbox http://mxtoolbox.com/EmailHeaders.aspx 
+
 ## File/sample check
 1. MalwareBazaar Database https://bazaar.abuse.ch/browse/ 
 2. Virus Total https://www.virustotal.com/gui/
@@ -32,6 +35,9 @@
 6. Tria.ge https://tria.ge/login 
 7. Maltiverse https://maltiverse.com/
 
+## Vulnerability & CVE
+1. OpenCVE https://www.opencve.io/
+
 ## DETECTION - YARA & SIGMA Rules
 1. Valhalla YARA Rules https://valhalla.nextron-systems.com/
 2. SOC Prime TDM https://tdm.socprime.com/login/
@@ -39,10 +45,3 @@
 4. Awesome YARA https://github.com/InQuest/awesome-yara 
 5. Yara Rules Repository https://github.com/Yara-Rules
 6. SIGMA Project (by Neo23x0) https://github.com/Neo23x0/sigma
-
-## Mail Check
-1. MX Toolbox http://mxtoolbox.com/EmailHeaders.aspx 
-
-## Vulnerability & CVE
-1. OpenCVE https://www.opencve.io/
-
