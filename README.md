@@ -36,6 +36,9 @@
 1. Valhalla YARA Rules https://valhalla.nextron-systems.com/
 2. SOC Prime TDM https://tdm.socprime.com/login/
 3. Elastic Detection rule https://github.com/elastic/detection-rules
+4. Awesome YARA https://github.com/InQuest/awesome-yara 
+5. Yara Rules Repository https://github.com/Yara-Rules
+6. SIGMA Project (by Neo23x0) https://github.com/Neo23x0/sigma
 
 ## Mail Check
 1. MX Toolbox http://mxtoolbox.com/EmailHeaders.aspx 
