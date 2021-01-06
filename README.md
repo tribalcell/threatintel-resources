@@ -3,6 +3,7 @@
 
 ## Feeds & News
 1. TruKno https://www.trukno.com/
+2. Malpedia https://malpedia.caad.fkie.fraunhofer.de/ 
 
 ## IP/Domain/URL Scan-Check
 1. URLhaus Database https://urlhaus.abuse.ch/
