@@ -52,3 +52,4 @@
 5. Yara Rules Repository https://github.com/Yara-Rules
 6. SIGMA Project (by Neo23x0) https://github.com/Neo23x0/sigma
 7. Online SIEM rules translator https://uncoder.io/ 
+8. Yara Scan Service https://riskmitigation.ch/yara-scan/
