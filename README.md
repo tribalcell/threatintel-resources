@@ -7,6 +7,9 @@
 3. Malpedia https://malpedia.caad.fkie.fraunhofer.de/ 
 4. Malware Tips https://malwaretips.com/forums/security-news.71/
 
+## OSINT
+1. Database Search Engine https://snusbase.com/search
+
 ## IP/Domain/URL Scan-Check
 1. URLhaus Database https://urlhaus.abuse.ch/
 2. URLScan.IO https://urlscan.io/
