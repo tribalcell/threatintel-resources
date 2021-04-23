@@ -49,6 +49,10 @@
 ## TTP / IoA - IoC 
 1. 
 
+# VISIBILITY
+1. Windows Event Logging & Collection Guidance https://github.com/JSCU-NL/logging-essentials
+2. Windows EVTX Samples https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
+
 ## DETECTION - YARA & SIGMA Rules
 1. Valhalla YARA Rules https://valhalla.nextron-systems.com/
 2. SOC Prime TDM https://tdm.socprime.com/login/
@@ -59,3 +63,6 @@
 7. Online SIEM rules translator https://uncoder.io/ 
 8. Yara Scan Service https://riskmitigation.ch/yara-scan/
 9. Quasarops Threat Detection https://quasarops.com/threat-detection/
+10. Advanced hunting queries for Microsoft 365 Defender https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries
+11. Elastic Detection Rule Detection Rules https://github.com/elastic/detection-rules
+12. 
