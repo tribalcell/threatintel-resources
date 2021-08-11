@@ -11,6 +11,7 @@
 
 ## OSINT
 1. Database Search Engine https://snusbase.com/search
+2. Microsoft Threat Intelligence Python Security Tools https://github.com/microsoft/msticpy
 
 ## IP/Domain/URL Scan-Check
 1. URLhaus Database https://urlhaus.abuse.ch/
