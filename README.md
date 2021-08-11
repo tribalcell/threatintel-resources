@@ -6,6 +6,7 @@
 2. TruKno https://www.trukno.com/
 3. Malpedia https://malpedia.caad.fkie.fraunhofer.de/ 
 4. Malware Tips https://malwaretips.com/forums/security-news.71/
+5. RansomFeeds https://gist.github.com/teixeira0xfffff/3ac8d9c4bf113e56533299b2da8c856b
 
 ## OSINT
 1. Database Search Engine https://snusbase.com/search
