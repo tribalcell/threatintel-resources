@@ -51,7 +51,8 @@
 1. OpenCVE https://www.opencve.io/
 
 ## TTP / IoA - IoC 
-1. 
+1. Feodo Tracker https://feodotracker.abuse.ch/
+2. ExecuteMalware IoC https://github.com/executemalware/Malware-IOCs
 
 # VISIBILITY
 1. Windows Event Logging & Collection Guidance https://github.com/JSCU-NL/logging-essentials
