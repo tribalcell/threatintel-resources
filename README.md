@@ -53,6 +53,7 @@
 ## TTP / IoA - IoC 
 1. Feodo Tracker https://feodotracker.abuse.ch/
 2. ExecuteMalware IoC https://github.com/executemalware/Malware-IOCs
+3. Awesome-CobaltStrike-Defence https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
 
 # VISIBILITY
 1. Windows Event Logging & Collection Guidance https://github.com/JSCU-NL/logging-essentials
@@ -70,4 +71,5 @@
 9. Quasarops Threat Detection https://quasarops.com/threat-detection/
 10. Advanced hunting queries for Microsoft 365 Defender https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries
 11. Elastic Detection Rule Detection Rules https://github.com/elastic/detection-rules
-12. 
+12. Awesome-CobaltStrike-Defence https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
+
