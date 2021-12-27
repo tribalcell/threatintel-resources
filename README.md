@@ -54,6 +54,8 @@
 1. Feodo Tracker https://feodotracker.abuse.ch/
 2. ExecuteMalware IoC https://github.com/executemalware/Malware-IOCs
 3. Awesome-CobaltStrike-Defence https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
+4. Malware IoC https://github.com/CronUp/Malware-IOCs
+5. 
 
 # VISIBILITY
 1. Windows Event Logging & Collection Guidance https://github.com/JSCU-NL/logging-essentials
