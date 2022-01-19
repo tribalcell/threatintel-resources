@@ -9,6 +9,7 @@
 5. RansomFeeds https://gist.github.com/teixeira0xfffff/3ac8d9c4bf113e56533299b2da8c856b
 6. CyberCrime Forums https://github.com/teixeira0xfffff/Cybercrime-Forums
 7. DarkFeed https://darkfeed.io/
+8. Cyber attacks & Ransomware today worldwide https://konbriefing.com/en-topics/cyber-attacks.html
 
 ## OSINT
 1. Database Search Engine https://snusbase.com/search
