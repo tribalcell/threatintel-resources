@@ -1,5 +1,5 @@
 # threatintel-resource
-## ThreatIntel / Threat Analysis Online resource
+## ThreatIntel / Threat Analysis / Threat Hunting / DFIR resource
 
 ## Feeds & News
 1. TribalSec Twitter https://twitter.com/tribal_sec
