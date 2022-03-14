@@ -76,3 +76,5 @@
 11. Elastic Detection Rule Detection Rules https://github.com/elastic/detection-rules
 12. Awesome-CobaltStrike-Defence https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
 
+# Playbook & Runbook
+1. IR Public Playbook https://gitlab.com/syntax-ir/playbooks#1-preparation
