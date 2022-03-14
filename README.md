@@ -78,3 +78,7 @@
 
 # Playbook & Runbook
 1. IR Public Playbook https://gitlab.com/syntax-ir/playbooks#1-preparation
+2. Awesome Incident Response https://github.com/meirwah/awesome-incident-response
+3. Cyber Incident Response Playbook Battle Cards https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards
+4. Threat Hunter Playbook https://github.com/OTRF/ThreatHunter-Playbook
+5. Phantom Playbooks https://github.com/phantomcyber/playbooks
