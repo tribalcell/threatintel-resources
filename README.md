@@ -75,6 +75,7 @@
 10. Advanced hunting queries for Microsoft 365 Defender https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries
 11. Elastic Detection Rule Detection Rules https://github.com/elastic/detection-rules
 12. Awesome-CobaltStrike-Defence https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
+13. Bartblaze Yara-rules https://github.com/bartblaze/Yara-rules
 
 # Playbook & Runbook
 1. IR Public Playbook https://gitlab.com/syntax-ir/playbooks#1-preparation
