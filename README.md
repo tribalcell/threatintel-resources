@@ -14,6 +14,8 @@
 ## OSINT
 1. Database Search Engine https://snusbase.com/search
 2. Microsoft Threat Intelligence Python Security Tools https://github.com/microsoft/msticpy
+3. YETI ThreatIntel https://yeti-platform.github.io/
+4. PulseDive https://pulsedive.com/
 
 ## IP/Domain/URL Scan-Check
 1. URLhaus Database https://urlhaus.abuse.ch/
