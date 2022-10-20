@@ -1,6 +1,8 @@
 # threatintel-resource
 ## ThreatIntel / Threat Analysis / Threat Hunting / DFIR resource
 
+--> External 360 Resource: https://start.me/p/m6yy68/
+
 ## Feeds & News
 1. TribalSec Twitter https://twitter.com/tribal_sec
 2. TruKno https://www.trukno.com/
