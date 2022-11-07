@@ -12,6 +12,7 @@
 6. CyberCrime Forums https://github.com/teixeira0xfffff/Cybercrime-Forums
 7. DarkFeed https://darkfeed.io/
 8. Cyber attacks & Ransomware today worldwide https://konbriefing.com/en-topics/cyber-attacks.html
+9. Breach forum https://breached.to/
 
 ## OSINT
 1. Database Search Engine https://snusbase.com/search
