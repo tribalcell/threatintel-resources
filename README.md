@@ -13,14 +13,16 @@
 7. DarkFeed https://darkfeed.io/
 8. Cyber attacks & Ransomware today worldwide https://konbriefing.com/en-topics/cyber-attacks.html
 9. Breach forum https://breached.to/
-10. Breach info https://dehashed.com/
-11. Breach info https://haveibeenpwned.com/
+
 
 ## OSINT
 1. Database Search Engine https://snusbase.com/search
 2. Microsoft Threat Intelligence Python Security Tools https://github.com/microsoft/msticpy
 3. YETI ThreatIntel https://yeti-platform.github.io/
 4. PulseDive https://pulsedive.com/
+5. Bucket exposed https://grayhatwarfare.com/
+6. Breach check https://dehashed.com/
+7. Breach check https://haveibeenpwned.com/
 
 ## IP/Domain/URL Scan-Check
 1. URLhaus Database https://urlhaus.abuse.ch/
@@ -39,6 +41,8 @@
 
 ## Mail Check
 1. MX Toolbox http://mxtoolbox.com/EmailHeaders.aspx 
+2. Breach check https://dehashed.com/
+3. Breach check https://haveibeenpwned.com/
 
 ## File/sample check
 1. MalwareBazaar Database https://bazaar.abuse.ch/browse/ 
