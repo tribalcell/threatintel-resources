@@ -13,6 +13,8 @@
 7. DarkFeed https://darkfeed.io/
 8. Cyber attacks & Ransomware today worldwide https://konbriefing.com/en-topics/cyber-attacks.html
 9. Breach forum https://breached.to/
+10. Breach info https://dehashed.com/
+11. Breach info https://haveibeenpwned.com/
 
 ## OSINT
 1. Database Search Engine https://snusbase.com/search
