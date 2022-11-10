@@ -40,10 +40,14 @@
 13. BrowserStack https://www.browserstack.com/
 14. IPQualityScore https://www.ipqualityscore.com
 
+## Data breach/leak check
+1. Breach check https://dehashed.com/
+2. Breach check https://haveibeenpwned.com/
+3. Breach check https://www.hudsonrock.com/
+
 ## Mail Check
 1. MX Toolbox http://mxtoolbox.com/EmailHeaders.aspx 
-2. Breach check https://dehashed.com/
-3. Breach check https://haveibeenpwned.com/
+
 
 ## File/sample check
 1. MalwareBazaar Database https://bazaar.abuse.ch/browse/ 
