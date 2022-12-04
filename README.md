@@ -23,6 +23,7 @@
 5. Bucket exposed https://grayhatwarfare.com/
 6. Breach check https://dehashed.com/
 7. Breach check https://haveibeenpwned.com/
+8. OSINT by Hackers Arise https://www.hackers-arise.com/osint
 
 ## IP/Domain/URL Scan-Check
 1. URLhaus Database https://urlhaus.abuse.ch/
