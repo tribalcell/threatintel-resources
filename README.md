@@ -100,3 +100,4 @@
 3. Cyber Incident Response Playbook Battle Cards https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards
 4. Threat Hunter Playbook https://github.com/OTRF/ThreatHunter-Playbook
 5. Phantom Playbooks https://github.com/phantomcyber/playbooks
+6. Incident Response Methodologies 2022 https://github.com/certsocietegenerale/IRM
