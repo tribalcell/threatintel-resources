@@ -40,6 +40,7 @@
 12. Browserling https://www.browserling.com/
 13. BrowserStack https://www.browserstack.com/
 14. IPQualityScore https://www.ipqualityscore.com
+15. IP Check Tool (Toor) https://www.dan.me.uk/
 
 ## Data breach/leak check
 1. Breach check https://dehashed.com/
